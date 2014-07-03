@@ -9,7 +9,7 @@
  * @date        $Date$:
  */
 
-namespace ManiaLive\Database\MySQLI;
+namespace ManiaLive\Database\MySQLi;
 
 class RecordSet extends \ManiaLive\Database\RecordSet
 {

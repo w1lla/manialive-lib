@@ -9,7 +9,7 @@
  * @date        $Date$:
  */
 
-namespace ManiaLive\Database\MySQLI;
+namespace ManiaLive\Database\MySQLi;
 
 use ManiaLive\Database\SelectionException;
 use ManiaLive\Database\NotSupportedException;
